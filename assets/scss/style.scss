@@ -41,7 +41,6 @@ nav {
         font-weight: 700;
         animation: spin 4s infinite;
         animation-delay: 2s;
-        opacity: .4;
     }
 
     #logo {
@@ -119,25 +118,3 @@ footer {
     font-size: .75rem;
 }
 
-.tryout {
-    position: relative;
-    font-weight:700;
-    letter-spacing: 0.3rem;
-
-    #background {
-        display: inline-block;
-        position:absolute;
-        left: 15px;
-        top: 3px;
-    }
-    #anim {
-        position: absolute;
-        display: inline-block;
-       // top: 0;
-        font-size: 1.2rem;
-        width: 73px;
-        top: 0;      
-        animation: spin 4s infinite;
-}
-
-}
