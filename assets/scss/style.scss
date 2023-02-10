@@ -8,8 +8,11 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	box-sizing: border-box;
 }
 
-$c_background:#e0e7e9;
+//$c_background:#e0e7e9;
+$c_background:#eff3f8;
+//$c_main:#252727;
 $c_main:#252727;
+$c_highlight:#f9ff4f;
 
 @font-face {
 	font-family: 'Inter';
@@ -35,13 +38,18 @@ $c_main:#252727;
 
 h1 {
     font-size: 2rem;
+    font-weight: 700;
 }
 h2 {
     font-size: 1.5rem;
 }
 
+a {
+    color: $c_main;
+}
+
 mark {
-background-color: #e2ec48;
+background-color: $c_highlight;
 }
 
 html {
