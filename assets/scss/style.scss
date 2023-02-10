@@ -31,11 +31,36 @@ main {
     margin: 0 auto;
     line-height: 1.5;
 }
-
 nav {
-    padding: 10px 0 10px 0;
+    padding: 20px 0 10px 0;
     display: flex;
     justify-content: space-between;
+
+    #logo-anim {
+        font-size: 2rem;
+        font-weight: 700;
+        animation: spin 4s infinite;
+        animation-delay: 2s;
+    }
+
+    #logo {
+        font-weight: 700;
+        letter-spacing: 0.3rem;
+    }
+}
+@keyframes spin {    10% {
+        -webkit-transform: rotate(0deg); 
+        transform:rotate(0deg); }
+
+    20% { 
+        -webkit-transform: rotate(180deg); 
+        transform:rotate(180deg); }
+    90% { 
+        -webkit-transform: rotate(180deg); 
+        transform:rotate(180deg); } 
+    100% { 
+        -webkit-transform: rotate(0deg); 
+        transform:rotate(0deg); } 
 }
 
 .header {
