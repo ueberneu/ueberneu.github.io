@@ -27,7 +27,7 @@ background-color: $c_highlight;
 main {
     max-width: 800px;
     height: 100%;
-    padding: 20px;
+    padding: 20px 20px 0 20px;
     margin: 0 auto;
     line-height: 1.5;
 }
@@ -49,6 +49,10 @@ section {
     padding: 40px 0 40px 0;
 }
 
+section:last-of-type {
+    margin-bottom: 70px;
+}
+
 .header {
 }
 
@@ -58,28 +62,37 @@ section {
     max-width: 600px;
     border-radius: 5px;
     display: flex;
+    border: 1px solid #e6eaef;
     h2 {
-        font-family: 'Plex Mono'
+        font-family: 'Inter';
+        font-size: 1.5rem;
+        line-height: 1.4rem;
+        margin-bottom: 10px;
     }
     img {
-        width: 100%;
-        height: 100%;
+        width: 60%;
+        height: 60%;
     }
     .img-wrap {        
         width: 100px;
-        height: 100px;
-        margin-right: 20px;
+        
         background: $c_highlight;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center; 
+        align-items: center;
     }
     .description {
+        font-family: 'Plex Mono';
+        font-size: 0.8rem;
+        padding: 20px;
     }
-
+    
     
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
+    margin-bottom: 0;
     padding-bottom: 7px;
     font-size: .75rem;
 }
