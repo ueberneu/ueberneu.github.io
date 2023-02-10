@@ -104,14 +104,15 @@ section:last-of-type {
   font-family: "Inter";
   font-size: 1.5rem;
   line-height: 1.4rem;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .project-item img {
   width: 60%;
   height: 60%;
 }
 .project-item .img-wrap {
-  width: 100px;
+  width: 150px;
+  flex: none;
   background: #f9ff4f;
   border-radius: 5px;
   display: flex;

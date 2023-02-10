@@ -67,15 +67,15 @@ section:last-of-type {
         font-family: 'Inter';
         font-size: 1.5rem;
         line-height: 1.4rem;
-        margin-bottom: 10px;
+        margin-bottom: 15px;
     }
     img {
         width: 60%;
         height: 60%;
     }
     .img-wrap {        
-        width: 100px;
-        
+        width: 150px;
+       flex: none; 
         background: $c_highlight;
         border-radius: 5px;
         display: flex;
