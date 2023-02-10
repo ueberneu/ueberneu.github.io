@@ -17,17 +17,16 @@ a {
     color: $c_main;
 }
 
+p {
+    margin-bottom: 1rem;
+}
+
 mark {
 background-color: $c_highlight;
 }
-
-html {
-    font-family: 'Inter', sans-serif; 
-	background-color: $c_background;
-}
-
-#page-wrap {
+main {
     max-width: 800px;
+    height: 100%;
     padding: 20px;
     margin: 0 auto;
     line-height: 1.5;
@@ -37,12 +36,6 @@ nav {
     padding: 10px 0 10px 0;
     display: flex;
     justify-content: space-between;
-}
-
-main {
-
-
-
 }
 
 .header {
@@ -61,7 +54,27 @@ section {
 
 .project-item {
     background: #fff;
-    margin-bottom: 20px; 
+    margin-bottom: 10px; 
+    max-width: 600px;
+    border-radius: 5px;
+    display: flex;
+    h2 {
+        font-family: 'Plex Mono'
+    }
+    img {
+        width: 100%;
+        height: 100%;
+    }
+    .img-wrap {        
+        width: 100px;
+        height: 100px;
+        margin-right: 20px;
+        background: $c_highlight;
+    }
+    .description {
+    }
+
+    
 }
 
 footer {
