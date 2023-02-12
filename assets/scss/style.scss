@@ -11,6 +11,7 @@ h1 {
 
 h2 {
     font-size: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 a {
@@ -22,7 +23,7 @@ p {
 }
 
 mark {
-background-color: $c_highlight;
+    background-color: $c_highlight;
 }
 main {
     max-width: 800px;
@@ -49,14 +50,14 @@ nav {
     }
 }
 @keyframes spin {    10% {
-        transform:rotate(0deg); } 
+    transform:rotate(0deg); } 
 
     20% { 
-        transform:rotate(180deg); }
+    transform:rotate(180deg); }
     90% { 
-        transform:rotate(180deg); } 
+    transform:rotate(180deg); } 
     100% { 
-        transform:rotate(0deg); } 
+    transform:rotate(0deg); } 
 }
 
 .header {
@@ -96,7 +97,7 @@ section:last-of-type {
     }
     .img-wrap {        
         width: 150px;
-       flex: none; 
+        flex: none; 
         background: $c_highlight;
         border-radius: 5px;
         display: flex;
@@ -108,8 +109,8 @@ section:last-of-type {
         font-size: 0.8rem;
         padding: 20px;
     }
-    
-    
+
+
 }
 
 footer {
@@ -118,3 +119,40 @@ footer {
     font-size: .75rem;
 }
 
+//----- RESPONSIVENESS -----
+@media only screen and (max-width: 900px) {
+    main {
+        margin: 0 auto;
+    }
+}
+@media only screen and (max-width: 670px) {
+    main {
+        padding: 0 10px;
+        #logo-anim {
+            animation: none;
+            transform: rotate(180deg);
+        }
+
+        nav div {
+            width: 100%;
+            #logo-anim { text-align:right; }
+        }
+
+        h1 { font-size: 1.5rem; }
+
+        .projects {
+            .description {
+                padding: 15px;
+
+            }
+            .description h2 { 
+                font-size: .9rem; 
+                font-weight: 700;
+                margin-bottom: 0.3rem;
+            }
+            .img-wrap {
+                width: 75px;
+            }
+        }
+    }
+}

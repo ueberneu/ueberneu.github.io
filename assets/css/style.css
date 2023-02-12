@@ -49,6 +49,7 @@ h1 {
 
 h2 {
   font-size: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 a {
@@ -153,6 +154,41 @@ footer {
   margin-bottom: 0;
   padding-bottom: 7px;
   font-size: 0.75rem;
+}
+
+@media only screen and (max-width: 900px) {
+  main {
+    margin: 0 auto;
+  }
+}
+@media only screen and (max-width: 670px) {
+  main {
+    padding: 0 10px;
+  }
+  main #logo-anim {
+    animation: none;
+    transform: rotate(180deg);
+  }
+  main nav div {
+    width: 100%;
+  }
+  main nav div #logo-anim {
+    text-align: right;
+  }
+  main h1 {
+    font-size: 1.5rem;
+  }
+  main .projects .description {
+    padding: 15px;
+  }
+  main .projects .description h2 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+  }
+  main .projects .img-wrap {
+    width: 75px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
