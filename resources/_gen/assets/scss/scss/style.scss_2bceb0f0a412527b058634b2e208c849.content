@@ -1,0 +1,167 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box; }
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Inter-Regular.woff2?v=3.13") format("woff2"), url("../fonts/Inter-Regular.woff?v=3.13") format("woff"); }
+
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Inter-Bold.woff2?v=3.13") format("woff2"), url("../fonts/Inter-Bold.woff?v=3.13") format("woff"); }
+
+@font-face {
+  font-family: 'Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/IBMPlexMono-Regular.woff2?v=3.13") format("woff2"), url("../fonts/IBMPlexMono-Regular.woff?v=3.13") format("woff"); }
+
+::selection {
+  color: #eff3f8;
+  background: #252727; }
+
+html {
+  font-family: 'Inter', sans-serif;
+  background-color: #eff3f8;
+  font-size: 16px; }
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-family: 'Plex Mono';
+  line-height: 1.2;
+  letter-spacing: 0.05em; }
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem; }
+
+a {
+  color: #252727; }
+
+p {
+  margin-bottom: 1rem; }
+
+mark {
+  background-color: #f9ff4f; }
+
+.bigtype h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-family: 'Plex Mono';
+  line-height: 1.2;
+  letter-spacing: 0.05em;
+  margin-bottom: 2rem; }
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  height: 100%;
+  padding: 20px 20px 0 20px;
+  line-height: 1.5; }
+
+nav {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px 0 10px 0;
+  display: flex;
+  justify-content: space-between; }
+  nav #logo-anim {
+    font-size: 2rem;
+    font-weight: 700;
+    animation: spin 4s infinite;
+    animation-delay: 2s; }
+  nav #logo {
+    font-weight: 700;
+    letter-spacing: 0.3rem; }
+
+@keyframes spin {
+  10% {
+    transform: rotate(0deg); }
+  20% {
+    transform: rotate(180deg); }
+  90% {
+    transform: rotate(180deg); }
+  100% {
+    transform: rotate(0deg); } }
+
+.header {
+  margin: 20px 0 20px 0; }
+  .header h1 {
+    margin-bottom: 40px; }
+
+main > div {
+  padding: 40px 0 40px 0; }
+
+main > div:last-of-type {
+  margin-bottom: 70px; }
+
+.project-item {
+  background: #fff;
+  margin-bottom: 10px;
+  max-width: 600px;
+  border-radius: 5px;
+  display: flex;
+  border: 1px solid #e6eaef; }
+  .project-item h2 {
+    font-family: 'Inter';
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    margin-bottom: 15px; }
+  .project-item img {
+    width: 60%;
+    height: 60%; }
+  .project-item .img-wrap {
+    width: 150px;
+    flex: none;
+    background: #f9ff4f;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+  .project-item .description {
+    font-family: 'Plex Mono';
+    font-size: 0.8rem;
+    padding: 20px; }
+
+footer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 7px;
+  font-size: .75rem; }
+
+@media only screen and (max-width: 900px) {
+  main {
+    margin: 0 auto; } }
+
+@media only screen and (max-width: 670px) {
+  main {
+    padding: 0 10px; }
+    main #logo-anim {
+      animation: none;
+      transform: rotate(180deg); }
+    main nav div {
+      width: 100%; }
+      main nav div #logo-anim {
+        text-align: right; }
+    main h1 {
+      font-size: 1.5rem; }
+    main .projects .description {
+      padding: 15px; }
+    main .projects .description h2 {
+      font-size: .9rem;
+      font-weight: 700;
+      margin-bottom: 0.3rem; }
+    main .projects .img-wrap {
+      width: 75px; } }

@@ -1,5 +1,9 @@
 @import "_basis";
 
+@mixin width {
+  max-width: 800px;
+  margin: 0 auto;
+  }
 
 h1 {
     font-size: 2.5rem;
@@ -25,15 +29,26 @@ p {
 mark {
     background-color: $c_highlight;
 }
+
+.bigtype h2 {
+      font-size: 2.5rem;
+    font-weight: 700;
+    font-family: 'Plex Mono';
+    line-height: 1.2;
+    letter-spacing: 0.05em;
+    margin-bottom: 2rem;
+}
+
 main {
-    max-width: 800px;
+    @include width;
     height: 100%;
     padding: 20px 20px 0 20px;
-    margin: 0 auto;
     line-height: 1.5;
 }
+
 nav {
-    padding: 20px 0 10px 0;
+    @include width;
+    padding: 50px 0 10px 0;
     display: flex;
     justify-content: space-between;
 
@@ -67,15 +82,12 @@ nav {
     }
 }
 
-section {
+main > div {
     padding: 40px 0 40px 0;
 }
 
-section:last-of-type {
+main > div:last-of-type {
     margin-bottom: 70px;
-}
-
-.header {
 }
 
 .project-item {
@@ -114,7 +126,7 @@ section:last-of-type {
 }
 
 footer {
-    margin-bottom: 0;
+    @include width;
     padding-bottom: 7px;
     font-size: .75rem;
 }

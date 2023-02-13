@@ -1,0 +1,24 @@
+---
+title: "cool title"
+date: 2023-02-13T11:30:19+01:00
+draft: false
+---
+[.bigtype]
+== #Überneu# is a #playground# for exciting ideas and potential ventures.  
+
+Our projects are inspired by everyday life combined with new facetes and thought experiments. 
+Überneues (German: More than new things) arise from structured processes in combination with creative openness. 
+
+Although, we are driven by curiousity and a joy of playing, our projects have a positive impact and solid economic basis.
+The results are real products, cultural interventions, or digial artifacts. 
+
+== Our projects...
+{{< project-teaser count="3" >}}
+
+== Office hours
+Unusual, but logical: We don't search for clients but love to meet new people. New ideas always come from exchanges. 
+It's getting exciting when we can combine ideas, skills and goals to create something new.
+So, please feel free to reach out via mailto:hi@ueberneu.de[email].
+
+Or directly grab a slot in our calendar – no strings attached. +
+-> https://cal.com/ueberneu[#Book a slot#]

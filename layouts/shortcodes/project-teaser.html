@@ -1,0 +1,15 @@
+<div id="project-list">
+    <!-- Ranges through content/posts/*.md -->
+    {{ range first (.Get "count") (where site.RegularPages.ByPublishDate "Type" "projects") }}
+    <div class="project-item">
+        <div class="img-wrap">
+            {{ $image := .Resources.GetMatch .Params.icon }}
+            <img src="{{ $image.RelPermalink }}" alt="project icon">
+        </div>
+        <div class="description">
+            <h2> {{ .Title }} </h2>
+            <p>  {{ .Params.teaser }} </p>
+        </div>
+    </div>  
+    {{ end }}
+</div>

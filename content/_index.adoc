@@ -1,0 +1,22 @@
+---
+title: "cool title"
+date: 2023-02-13T11:30:19+01:00
+draft: false
+---
+
+[.bigtype]
+== #Überneu# ist die in Unternehmens­form gegossene #Spielwiese#.  
+
+Unsere Projekte basieren auf aus dem Alltag heraus inspirierten und mit neuen Facetten kombinieren Experimenten und Gedankenspielen. Überneues entsteht aus einem strukturierten Prozess in Kombination mit kreativer Offenheit.  
+
+Wenngleich es im wesentlichen Neugier und Spielfreude sind, die uns antreiben, so müssen überneue Projekte im Ergebnis mindestens einen gewissen positiven Effekt und eine solide wirtschaftliche Basis haben. Ergebnisse unserer Arbeit existieren sowohl als reale Produkte, kulturelle Impulse, wie auch im digitalen Raum.
+
+== Über Neues...
+{{< project-teaser count="3" >}}
+
+== Sprechstunde
+Untypisch und doch logisch: Wir suchen keine Kunden, treffen aber gerne neue Leute. Spannend wird es wenn wir Ideen, Fähigkeiten oder Ziele kombinieren und daraus Neues erschaffen können. +
+Hört sich gut an? Du erreichst uns per mailto:hi@ueberneu.de[Mail].
+
+Noch konkreter wird es mit einem unverbindlichen Termin. +
+-> https://cal.com/ueberneu[#Termin eintragen#]

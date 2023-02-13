@@ -1,0 +1,30 @@
+baseURL = 'http://example.org/'
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+defaultContentLanguage = 'de'
+[languages]  
+  [languages.de]
+    title = 'Überneu'
+    weight = 1
+    languageName = "DE"
+  [languages.en]
+    title = 'Uberneu'
+    weight = 2
+    languageName = "EN"
+
+
+
+[security]
+enableInlineShortcodes = false
+
+[security.exec]
+allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+osEnv = ["(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|RUBYLIB)$"]
+
+[security.funcs]
+getenv = ["^HUGO_"]
+
+[security.http]
+methods = ["(?i)GET|POST"]
+urls = [".*"]

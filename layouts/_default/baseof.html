@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ block "title" . }} {{ .Site.Title }} {{ end }}</title>
+
+    {{ $sass := resources.Get "scss/style.scss" }}
+    {{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+
+    <meta name="robots" content="noindex,nofollow,noarchive">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+     <nav>
+         <div>
+             <div id="logo-anim">ü</div>
+             <div id="logo">ÜBERNEU</div>
+         </div>
+         <div id="language-menu">
+
+             {{ range $.Site.Home.AllTranslations }}
+             <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a> · 
+             {{ end }}
+         </div>
+        <!--  <div id="language-menu">DE · <a href="/en/">EN</a></div>   -->
+    </nav>
+
+    {{ block "main" . }} {{ end }}
+
+      {{ block "footer" . }}
+          <footer> 2023 · ÜBERNEU · Ein Projekt der Markenliebhaber GmbH · <a href="https://markenliebhaber.com/impressum/">Impressum</a>
+          · <a href="https://markenliebhaber.com/datenschutz/"> Datenschutz </a>
+          </footer>
+      {{ end }}
+  </body>
+</html>
