@@ -119,10 +119,17 @@ footer {
 //----- RESPONSIVENESS -----
 @media only screen and (max-width: 900px) {
     main {
-        margin: 0 auto; }}
+        margin: 0 auto; }
+	nav, footer { margin-left: 20px;}
+	}
 
 @media only screen and (max-width: 670px) {
-    main {
+	nav, footer {
+		margin-left:0;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	main {
         padding: 0 10px;
         #logo-anim {
             animation: none;
