@@ -1,0 +1,44 @@
+---
+title: "Impressum"
+date: 2023-02-25
+draft: false
+---
+
+[.bigtype]
+== Impressum
+
+Die Nutzung, Vervielfältigung und Aufnahme in Datenbanken von Texten, Grafiken, Sound und Bildern darf nur nach vorheriger schriftlicher Zustimmung durch der Markenliebhaber GmbH erfolgen.
+
+Bitte beachten Sie bei der Zusammenarbeit die Allgemeinen Geschäftsbedingungen der Markenliebhaber.
+Diese stellen wir Ihnen jederzeit gerne zur Verfügung.
+
+Angaben gemäß § 5 TMG
+
+Markenliebhaber® GmbH +
+Elberfelder Straße 32 +
+58095 Hagen 
+
+Fon: +49 (0) 2331 – 9105999 +
+E-Mail: info@markenliebhaber.de
+
+Geschäftsführer: Christian Ströher 
+
+Registergericht: Amtsgericht Hagen +
+Registernummer: HRB 9786 
+
+Umsatzsteuer-Identifikationsnummer +
+gemäß § 27 a Umsatzsteuergesetz: +
+DE271874296
+
+Markenliebhaber® ist eine eingetragene Marke.
+
+== EXTERNE LINKS
+Mit Urteil vom 12. Mai 1998 – 312 O 85/98 – “Haftung für Links” hat das Landgericht (LG) Hamburg entschieden, dass man durch die Anbringung eines Links, die Inhalte der gelinkten Seite ggf. mit zu verantworten hat. Dies kann – so das LG – nur dadurch verhindert werden, dass man sich ausdrücklich von diesen Inhalten distanziert. Hiermit distanzieren wir uns ausdrücklich von allen Inhalten aller gelinkten Seiten auf unserer Homepage und machen uns diese Inhalte nicht zu eigen. Diese Erklärung gilt für alle in diesem Projekt (auf dieser Website) angebrachten Links.
+
+== HAFTUNGSAUSSCHLUSS
+Die Informationen auf diesen Webseiten verstehen sich als “Aussagen an sich” ohne implizite Garantien jedweder Art. Die bereitgestellten Informationen auf dieser Webseiten wurden sorgfältig geprüft und werden regelmäßig aktualisiert. Jedoch kann keine Garantie dafür übernommen werden, dass alle Angaben zu jeder Zeit vollständig, richtig und in letzter Aktualität dargestellt sind. Dies gilt insbesondere für alle Verbindungen (”Links”) zu anderen Web Sites, auf die direkt oder indirekt verwiesen wird. Alle Angaben können ohne vorherige Ankündigung ergänzt, entfernt oder geändert werden. Außerdem liegt es nicht in unserer Verantwortung, Vorsichtsmaßnahmen zu ergreifen gegen destruktive Programme oder Programmteile wie Viren, Worms, Trojanische Pferde o.ä., die auf Webservern liegen, die möglicherweise durch Links von unseren Webseiten aus erreicht werden.
+
+== DATENSCHUTZ & DATENNUTZUNG
+Wir nehmen den Schutz Ihrer und der Daten unserer Kunden sehr ernst. Um Ihnen einen optimalen Service bieten zu können nutzen wir einige Tools, wie bspw. Squarespace als Basis dieser Website oder auch Google Analytics zur Auswertung der Besucher auf unserer Website. Die folgenden Abschnitte erläutern Ihnen die hierzu wesentlichen Details.
+
+Bitte lesen Sie alle Deatils hierzu unter link:/datenschutz[Datenschutz]

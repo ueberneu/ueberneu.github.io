@@ -3,6 +3,7 @@ baseURL = 'http://example.org/'
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 defaultContentLanguage = 'de'
+
 [languages]  
   [languages.de]
     title = 'Überneu'
@@ -12,8 +13,6 @@ defaultContentLanguage = 'de'
     title = 'Uberneu'
     weight = 2
     languageName = "EN"
-
-
 
 [security]
 enableInlineShortcodes = false

@@ -10,25 +10,20 @@ h1 {
     font-weight: 700;
     font-family: 'Plex Mono';
     line-height: 1.2;
-    letter-spacing: 0.05em;
-}
+    letter-spacing: 0.05em; }
 
 h2 {
     font-size: 1.5rem;
-    margin-bottom: 1rem;
-}
+    margin-bottom: 1rem; }
 
 a {
-    color: $c_main;
-}
+    color: $c_main; }
 
 p {
-    margin-bottom: 1rem;
-}
+    margin-bottom: 1rem; }
 
 mark {
-    background-color: $c_highlight;
-}
+    background-color: $c_highlight; }
 
 .bigtype h2 {
       font-size: 2.5rem;
@@ -36,15 +31,13 @@ mark {
     font-family: 'Plex Mono';
     line-height: 1.2;
     letter-spacing: 0.05em;
-    margin-bottom: 2rem;
-}
+    margin-bottom: 2rem; }
 
 main {
     @include width;
     height: 100%;
     padding: 20px 20px 0 20px;
-    line-height: 1.5;
-}
+    line-height: 1.5; }
 
 nav {
     @include width;
@@ -56,39 +49,36 @@ nav {
         font-size: 2rem;
         font-weight: 700;
         animation: spin 4s infinite;
-        animation-delay: 2s;
-    }
+        animation-delay: 2s; }
 
     #logo {
         font-weight: 700;
-        letter-spacing: 0.3rem;
-    }
-}
-@keyframes spin {    10% {
-    transform:rotate(0deg); } 
+        letter-spacing: 0.3rem; }
 
-    20% { 
-    transform:rotate(180deg); }
-    90% { 
-    transform:rotate(180deg); } 
-    100% { 
-    transform:rotate(0deg); } 
-}
+	#language-menu {
+		align-self: flex-end;
+		.current-language {
+			opacity: .4; }
+		span:not(:last-of-type)::after {
+			content: ' · '; }}}
+
+@keyframes spin {    
+	10%  { transform:rotate(0deg); } 
+    20%  { transform:rotate(180deg); }
+    90%  { transform:rotate(180deg); } 
+    100% { transform:rotate(0deg); }}
+
 
 .header {
     margin: 20px 0 20px 0;
     h1 {
-        margin-bottom: 40px;
-    }
-}
+        margin-bottom: 40px; }}
 
 main > div {
-    padding: 40px 0 40px 0;
-}
+    padding: 40px 0 40px 0; }
 
 main > div:last-of-type {
-    margin-bottom: 70px;
-}
+    margin-bottom: 70px; }
 
 .project-item {
     background: #fff;
@@ -101,12 +91,12 @@ main > div:last-of-type {
         font-family: 'Inter';
         font-size: 1.2rem;
         line-height: 1.4rem;
-        margin-bottom: 15px;
-    }
+        margin-bottom: 15px;}
+
     img {
         width: 60%;
-        height: 60%;
-    }
+        height: 60%; }
+
     .img-wrap {        
         width: 150px;
         flex: none; 
@@ -114,57 +104,42 @@ main > div:last-of-type {
         border-radius: 5px;
         display: flex;
         justify-content: center; 
-        align-items: center;
-    }
+        align-items: center; }
+
     .description {
         font-family: 'Plex Mono';
         font-size: 0.8rem;
-        padding: 20px;
-    }
-
-
-}
+        padding: 20px; }}
 
 footer {
     @include width;
     padding-bottom: 7px;
-    font-size: .75rem;
-}
+    font-size: .75rem; }
 
 //----- RESPONSIVENESS -----
 @media only screen and (max-width: 900px) {
     main {
-        margin: 0 auto;
-    }
-}
+        margin: 0 auto; }}
+
 @media only screen and (max-width: 670px) {
     main {
         padding: 0 10px;
         #logo-anim {
             animation: none;
-            transform: rotate(180deg);
-        }
+            transform: rotate(180deg); }
 
         nav div {
             width: 100%;
-            #logo-anim { text-align:right; }
-        }
+            #logo-anim { text-align:right; }}
 
         h1 { font-size: 1.5rem; }
 
         .projects {
             .description {
-                padding: 15px;
-
-            }
+                padding: 15px; }
             .description h2 { 
                 font-size: .9rem; 
                 font-weight: 700;
-                margin-bottom: 0.3rem;
-            }
+                margin-bottom: 0.3rem; }
             .img-wrap {
-                width: 75px;
-            }
-        }
-    }
-}
+                width: 75px; }}}}

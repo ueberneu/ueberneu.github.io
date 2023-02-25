@@ -1,0 +1,27 @@
+---
+title: "Datenschutz"
+date: 2023-02-25
+draft: false
+---
+
+[.bigtype]
+== Datenschutz 
+
+Die Markenliebhaber GmbH misst dem Schutz Ihrer Privat- und Persönlichkeitssphäre höchste Bedeutung bei. Die Einhaltung gesetzlicher Regelungen über den Datenschutz ist für uns daher selbstverständlich. Wenn Sie unsere Websites besuchen, speichern Webserver unseres Hostingpartners und des Providers dieser Web-CMS standardmäßig den Namen Ihres Internet-Service-Providers, die Website, von der Sie uns aus besuchen, sowie das Datum und die Dauer des Besuches.
+
+Wir werten diese Daten nur für statistische Zwecke und nur in anonymisierter Form aus. Werden Sie auf einzelnen Web-Seiten um die Angabe persönlicher Informationen gebeten, so werden Sie dort über den beabsichtigten Verarbeitungszweck informiert und falls erforderlich um Ihre Zustimmung gebeten.
+
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf. Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „personenbezogene Daten“ oder deren „Verarbeitung“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
+
+== VERANTWORTLICH:
+Markenliebhaber® GmbH +
+Elberfelder Straße 32 +
+58095 Hagen
+
+Telefonnummer: +49 (0) 2331 – 739 15 10 +
+E-Mailadresse: info@markenliebhaber.de
+
+Geschäftsführer: Christian Ströher
+
+Registergericht: Amtsgericht Hagen +
+Registernummer: HRB 9786

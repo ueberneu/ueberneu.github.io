@@ -19,19 +19,26 @@
              <div id="logo">ÜBERNEU</div>
          </div>
          <div id="language-menu">
+			 {{ if .Site.IsMultiLingual }}
+				 {{ range .Site.Languages }}
+					 {{ if eq . $.Site.Language }}
+					 <span class="current-language"> {{ .LanguageName }} </span>
+					 {{ else }}
+					 {{ range $.Translations }}
+					 <span class="language"><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></span>
+					 {{ end }}
+					 {{ end }}
+				 {{ end }}
+		 {{ end }}
 
-             {{ range $.Site.Home.AllTranslations }}
-             <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a> · 
-             {{ end }}
          </div>
-        <!--  <div id="language-menu">DE · <a href="/en/">EN</a></div>   -->
     </nav>
 
     {{ block "main" . }} {{ end }}
 
       {{ block "footer" . }}
-          <footer> 2023 · ÜBERNEU · Ein Projekt der Markenliebhaber GmbH · <a href="https://markenliebhaber.com/impressum/">Impressum</a>
-          · <a href="https://markenliebhaber.com/datenschutz/"> Datenschutz </a>
+          <footer> 2023 · ÜBERNEU · Ein Projekt der Markenliebhaber GmbH · <a href="/impressum">Impressum</a>
+          · <a href="/datenschutz"> Datenschutz </a>
           </footer>
       {{ end }}
   </body>
