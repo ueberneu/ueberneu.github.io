@@ -2,6 +2,6 @@
 title: "Timeboxed internet"
 date: 2023-02-11
 draft: false
-teaser: "Kids learn to autonomously self-regulate their time online — with our intuitive device."
+teaser: "Our intuitive device helps to teach kids how to self-regulate their time online"
 icon: kids_device.svg
 ---
