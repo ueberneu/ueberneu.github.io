@@ -2,6 +2,6 @@
 title: "Cities are conversations"
 date: 2023-02-10
 draft: false
-teaser: "How do you initiate conversations with a city? We work on an impulse."
+teaser: "How do you initiate conversations with a city? We work on a cultural intervention."
 icon: bank.svg
 ---

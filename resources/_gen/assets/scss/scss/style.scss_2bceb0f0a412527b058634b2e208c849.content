@@ -147,7 +147,7 @@ main > div:last-of-type {
 footer {
   max-width: 800px;
   margin: 0 auto;
-  padding-bottom: 7px;
+  padding-bottom: 15px;
   font-size: .75rem; }
 
 @media only screen and (max-width: 900px) {
