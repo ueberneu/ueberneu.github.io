@@ -13,7 +13,7 @@ Curiosity and the joy of playing drive our projects – they also have a positiv
 The results are real products, cultural interventions, or digital artifacts. 
 
 == Our projects
-{{< project-teaser count="3" >}}
+{{< project-teaser count="4" >}}
 
 == Office hours
 Unusual but only logical: We don't search for clients but love to meet new people. + 

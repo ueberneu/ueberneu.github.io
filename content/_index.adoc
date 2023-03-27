@@ -12,7 +12,7 @@ Unsere Projekte basieren auf aus dem Alltag heraus inspirierten und mit neuen Fa
 Wenngleich es im wesentlichen Neugier und Spielfreude sind, die uns antreiben, so müssen überneue Projekte im Ergebnis mindestens einen gewissen positiven Effekt und eine solide wirtschaftliche Basis haben. Ergebnisse unserer Arbeit existieren sowohl als reale Produkte, kulturelle Impulse, wie auch im digitalen Raum.
 
 == Über Neues...
-{{< project-teaser count="3" >}}
+{{< project-teaser count="4" >}}
 
 == Sprechstunde
 Untypisch und doch logisch: Wir suchen keine Kunden, treffen aber gerne neue Leute. Spannend wird es wenn wir Ideen, Fähigkeiten oder Ziele kombinieren und daraus Neues erschaffen können. +
