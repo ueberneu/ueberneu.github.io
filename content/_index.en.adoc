@@ -6,18 +6,16 @@ draft: false
 [.bigtype]
 == #Überneu# is a #playground# for exciting ideas and potential ventures.  
 
-Everyday life and thought experiments inspire our work.
-We believe that Überneues (German: more than new things) arise from structured processes in combination with creative openness.
+Everyday life and thought experiments inspire our work. + 
+We believe that Überneues (German: the overly, all too new) arise from structured processes in combination with creative openness.
 
-Curiosity and the joy of playing drive our projects – they also have a positive impact and solid economic basis. 
-The results are tangible products, cultural interventions, or digital artifacts.
+Although it is curiosity and the joy of encountering new things, ideas, and concepts that drive us, projects we take on must also have a positive effect and a solid economic basis. The results are tangible products, cultural interventions, or digital artifacts.
 
 == Our projects
 {{< project-teaser count="4" >}}
 
 == Office hours
-Unusual but logical: we don’t search for clients but love to meet people.
-New ideas come from conversation. Together we create something new by merging ideas, skills, and goals. +
+New ideas derive from conversations—and while we do not actively search for clients, we always love to meet people. Together we create something new by merging ideas, skills, and goals. +
 Please feel free to reach out via mailto:hi@ueberneu.de[email].
 
 Or directly grab a slot in our calendar—no strings attached. +
