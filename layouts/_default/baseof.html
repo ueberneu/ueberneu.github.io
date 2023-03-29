@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>{{ block "title" . }} {{ .Site.Title }} {{ end }}</title>
 
-    {{ $sass := resources.Get "scss/style.scss" }}
-    {{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
+  	{{ $options := (dict "targetPath" "style.css" "outputStyle" "compressed" ) }}
+{{ $style := resources.Get "scss/style.scss" | resources.ToCSS $options | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
 
     <meta name="robots" content="noindex,nofollow,noarchive">
