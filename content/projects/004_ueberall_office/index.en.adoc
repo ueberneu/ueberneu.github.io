@@ -3,5 +3,7 @@ title: "The 1 square meter remote office"
 date: 2023-03-27
 draft: false
 teaser: "We help an innovative product to conquer the German market and your home office."
+state: "Launching soon"
+link: "https://1qm-office.de/"
 icon: beaktor.svg
 ---

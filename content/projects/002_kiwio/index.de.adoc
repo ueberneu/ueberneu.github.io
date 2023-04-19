@@ -3,5 +3,7 @@ title: "Timeboxed Internet"
 date: 2023-02-11
 draft: false
 teaser: "Kinder lernen Internetkonsum zu regulieren — mit unserem Device in Eigenverantwortung und intuitiv."
+link: "https://kiwiobox.de/"
+state: "In der Entwicklung"
 icon: kids_device.svg
 ---

@@ -2,6 +2,9 @@
     <!-- Ranges through content/posts/*.md -->
     {{ range first (.Get "count") (where site.RegularPages.ByPublishDate.Reverse "Type" "projects") }}
     <div class="project-item">
+		{{ $ext_link := .Params.link }}
+		{{ with .Params.link }} <a href="{{ $ext_link }}" target="_blank"> {{ end }}
+
         <div class="img-wrap">
             {{ $image := .Resources.GetMatch .Params.icon }}
             <img src="{{ $image.RelPermalink }}" alt="project icon">
@@ -9,7 +12,12 @@
         <div class="description">
             <h2> {{ .Title }} </h2>
             <p>  {{ .Params.teaser }} </p>
+			<p>
+			{{ with .Params.state }}{{ else }}&nbsp;{{ end }} {{ .Params.state }}{{ with .Params.link }}, Link: {{ end }} <mark> {{ .Params.link }}</mark>
+			</p>
         </div>
-    </div>  
+		
+		{{ with .Params.link }} </a> {{ end }}
+	</div>  
     {{ end }}
 </div>

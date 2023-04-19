@@ -86,10 +86,11 @@ main > div:last-of-type {
 .project-item {
     background: #fff;
     margin-bottom: 10px; 
-    max-width: 600px;
+    max-width: 650px;
     border-radius: 5px;
     display: flex;
     border: 1px solid #e6eaef;
+
     h2 {
         font-family: 'Inter';
         font-size: 1.2rem;
@@ -101,7 +102,7 @@ main > div:last-of-type {
         height: 60%; }
 
     .img-wrap {        
-        width: 150px;
+        width: 180px;
         flex: none; 
         background: $c_highlight;
         border-radius: 5px;
@@ -112,7 +113,19 @@ main > div:last-of-type {
     .description {
         font-family: 'Plex Mono';
         font-size: 0.8rem;
-        padding: 20px; }}
+        padding: 20px; }
+	a {
+		border: 1px solid #e6eaef;
+		display: flex;
+		border-radius: 5px;
+		text-decoration: none;
+	}
+}
+
+.project-item a:hover {
+	border: 1px solid black;
+
+}
 
 footer {
     @include width;

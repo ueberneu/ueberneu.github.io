@@ -3,5 +3,7 @@ title: "Timeboxed internet"
 date: 2023-02-11
 draft: false
 teaser: "Our intuitive device helps to teach kids how to self-regulate their time online"
+link: "https://kiwiobox.de/"
+state: "In development"
 icon: kids_device.svg
 ---

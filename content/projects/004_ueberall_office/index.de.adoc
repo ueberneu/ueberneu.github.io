@@ -3,5 +3,7 @@ title: "Das 1qm Remote Office"
 date: 2023-03-27
 draft: false
 teaser: "Wir helfen einem innovativen Produkt den deutschen Markt und Dein Homeoffice zu erobern."
+state: "Fast fertig"
+link: "https://1qm-office.de/"
 icon: beaktor.svg
 ---

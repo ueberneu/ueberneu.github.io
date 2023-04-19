@@ -3,5 +3,6 @@ title: "Room to rethink"
 date: 2023-02-13
 draft: false
 teaser: "There is \'room\' for new ideas in unusual spaces. We create those spaces."
+state: "Concept phase"
 icon: meeting.svg
 ---
