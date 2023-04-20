@@ -6,7 +6,6 @@ draft: false
 
 [.bigtype]
 == Datenschutz
-
 Die Markenliebhaber GmbH misst dem Schutz Ihrer Privat- und Persönlichkeitssphäre höchste Bedeutung bei. Die Einhaltung gesetzlicher Regelungen über den Datenschutz ist für uns daher selbstverständlich. Wenn Sie unsere Websites besuchen, speichern Webserver unseres Hostingpartners und des Providers dieser Web-CMS standardmäßig den Namen Ihres Internet-Service-Providers, die Website, von der Sie uns aus besuchen, sowie das Datum und die Dauer des Besuches.
 Wir werten diese Daten nur für statistische Zwecke und nur in anonymisierter Form aus. Werden Sie auf einzelnen Web-Seiten um die Angabe persönlicher Informationen gebeten, so werden Sie dort über den beabsichtigten Verarbeitungszweck informiert und falls erforderlich um Ihre Zustimmung gebeten.
 
@@ -27,18 +26,16 @@ Registernummer: HRB 9786
 
 [.bigtype]
 == Datenschutzerklärung
-
 == 1. Datenschutz auf einen Blick
-
-*ALLGEMEINE HINWEISE* +
+=== ALLGEMEINE HINWEISE
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
-*DATENERFASSUNG AUF UNSERER WEBSITE* +
+=== DATENERFASSUNG AUF UNSERER WEBSITE
 Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.
 
-*ARTEN DER VERARBEITETEN DATEN:* +
+=== ARTEN DER VERARBEITETEN DATEN:
 
 * Bestandsdaten (z.B., Namen, Adressen)
 * Kontaktdaten (z.B., E-Mail, Telefonnummern)
@@ -48,12 +45,12 @@ Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Des
 
 Es werden grundsätzlich keine besonderen Kategorien von Daten verarbeitet, außer diese werden durch die Nutzer der Verarbeitung zugeführt, z.B. in Onlineformularen eingegeben.
 
-*WIE ERFASSEN WIR IHRE DATEN?* +
+=== WIE ERFASSEN WIR IHRE DATEN?
 Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
 
 Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten.
 
-*WOFÜR NUTZEN WIR IHRE DATEN?* +
+=== WOFÜR NUTZEN WIR IHRE DATEN?
 Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten.
 Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
 
@@ -65,20 +62,20 @@ Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern
 Marketing, Werbung und Marktforschung
 Sicherheitsmaßnahmen
 
-*WELCHE RECHTE HABEN SIE BEZÜGLICH IHRER DATEN?* +
+=== WELCHE RECHTE HABEN SIE BEZÜGLICH IHRER DATEN?
 Sie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung oder Löschung dieser Daten zu verlangen. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
 
-*ANALYSE-TOOLS UND TOOLS VON DRITTANBIETERN* +
+=== ANALYSE-TOOLS UND TOOLS VON DRITTANBIETERN
 Beim Besuch unserer Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit Cookies und mit sogenannten Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der Regel anonym; das Surf-Verhalten kann nicht zu Ihnen zurückverfolgt werden. Sie können dieser Analyse widersprechen oder sie durch die Nichtbenutzung bestimmter Tools verhindern. Detaillierte Informationen dazu finden Sie in der folgenden Datenschutzerklärung.
 
 Sie können dieser Analyse widersprechen. Über die Widerspruchsmöglichkeiten werden wir Sie in dieser Datenschutzerklärung informieren.
 
-*ÄNDERUNGEN UND AKTUALISIERUNGEN DER DATENSCHUTZERKLÄRUNG* +
+=== ÄNDERUNGEN UND AKTUALISIERUNGEN DER DATENSCHUTZERKLÄRUNG
 Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
 
 == 2. Allgemeine Hinweise und Pflichtinformationen
 
-*DATENSCHUTZ* +
+=== DATENSCHUTZ
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 
 Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.
@@ -99,29 +96,29 @@ E-Mail: info@markenliebhaber.com
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
-*WIDERRUF IHRER EINWILLIGUNG ZUR DATENVERARBEITUNG* +
+=== WIDERRUF IHRER EINWILLIGUNG ZUR DATENVERARBEITUNG
 Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
 
-*BESCHWERDERECHT BEI DER ZUSTÄNDIGEN AUFSICHTSBEHÖRDE* +
+=== BESCHWERDERECHT BEI DER ZUSTÄNDIGEN AUFSICHTSBEHÖRDE
 Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat. Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können folgendem Link entnommen werden: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
-*RECHT AUF DATENÜBERTRAGBARKEIT* +
+== RECHT AUF DATENÜBERTRAGBARKEIT
 Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
 
-*SSL- BZW. TLS-VERSCHLÜSSELUNG* +
+=== SSL- BZW. TLS-VERSCHLÜSSELUNG
 Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.
 
 Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
 
-*AUSKUNFT, SPERRUNG, LÖSCHUNG* +
+=== AUSKUNFT, SPERRUNG, LÖSCHUNG
 Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
 
-*WIDERSPRUCH GEGEN WERBE-MAILS* +
+=== WIDERSPRUCH GEGEN WERBE-MAILS
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
 == 3. Datenerfassung auf unserer Website
 
-*COOKIES* +
+=== COOKIES
 Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.
 
 Die meisten der von uns verwendeten Cookies sind so genannte “Session-Cookies”. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.
@@ -132,7 +129,7 @@ Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zu
 
 Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
 
-*SERVER-LOG-DATEIEN* +
+=== SERVER-LOG-DATEIEN
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:
 
 - Browsertyp und Browserversion 
@@ -145,7 +142,7 @@ Der Provider der Seiten erhebt und speichert automatisch Informationen in so gen
 Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
 Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
 
-*KONTAKTFORMULAR* +
+=== KONTAKTFORMULAR
 Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
 Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt somit ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
@@ -158,10 +155,10 @@ Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten 
 
 Die nachfolgende Darstellung bietet eine Übersicht von Drittanbietern sowie ihrer Inhalte, nebst Links zu deren Datenschutzerklärungen, welche weitere Hinweise zur Verarbeitung von Daten und, z.T. bereits hier genannt, Widerspruchsmöglichkeiten (sog. Opt-Out) enthalten:
 
-*MINDERJÄHRIGE* +
+=== MINDERJÄHRIGE
 Kinder und Jugendliche unter 14 Jahren dürfen ohne Zustimmung der Eltern oder der Erziehungsberechtigten keine personenbezogenen Daten im Internet übermitteln. Bitte beachten Sie, dass unsere Webseiten nicht für Jugendliche unter 18 Jahre bestimmt oder an diese gerichtet sind. Wir erfassen wissentlich keine personenbezogenen Daten von Personen unter 18 Jahren.
 
-*LINKS AUF ANDERE WEBSEITEN* +
+=== LINKS AUF ANDERE WEBSEITEN
 Diese Webseite enthält auch Links zu anderen Webseiten. Die hier beschriebene Datenschutzerklärung gilt für diese Webseiten allerdings nicht. Wir bitten Sie, diese Webseiten direkt zu besuchen, um dort Informationen über den Datenschutz, die Sicherheit, die Erfassung von Daten und die Vorschriften zur Weitergabe von Daten zu erhalten.
 
 
