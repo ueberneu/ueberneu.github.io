@@ -3,7 +3,7 @@ title: "Städte sind Gespräche"
 date: 2023-02-10
 draft: false
 teaser: "Wie kommst Du mit der Stadt ins Gespräch? Wir arbeiten an einem Impuls."
-state: "Fast fertig"
+state: "Release: Mai 2023"
 link: "https://bhank.de/"
 icon: bank.svg
 ---
