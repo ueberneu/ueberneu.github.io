@@ -1,0 +1,8 @@
+---
+title: "ÜberLokal"
+date: 2024-10-11
+draft: false
+teaser: "ÜberLokal is an exhibition, workshop- and coworking space in the inner city of Hagen."
+state: "Planned for 2025"
+icon: lokal.svg
+---

@@ -4,5 +4,5 @@ date: 2023-02-13
 draft: false
 teaser: "In ungewohnter aber mehr als passender Umgebung und Form findest Du \"Raum\" neu zu denken."
 state: "Konzeptphase"
-icon: meeting.svg
+icon: boat.svg
 ---

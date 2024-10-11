@@ -1,0 +1,8 @@
+---
+title: "ÜberLokal"
+date: 2024-10-11
+draft: false
+teaser: "Das ÜberLokal vereint Ausstellung, Workshop- und Coworkingspace in der Hagener Innenstadt."
+state: "Geplant für 2025"
+icon: lokal.svg
+---
